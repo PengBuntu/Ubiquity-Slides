@@ -8,8 +8,6 @@ A Store Of PengBuntu's Ubiquity Slides.
 
 Please Note That Only The HTML Slide Files Get Copied Into The Distro. Other Files In This Repo (Usually) Remain Untouched.
 
-l10n Localization Files Will Be Added As We Translate!
-
-Non-Translated Localization Files Will Remain The Same As In The Ubuntu Ubiquity!
+l10n Localization Files Just Replace 'Ubuntu' With 'PengBuntu' (For Now) 
 
 The Penguin Emoji By Twemoji Is Licensed Under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
